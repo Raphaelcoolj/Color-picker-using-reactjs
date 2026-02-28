@@ -61,4 +61,3 @@ Locally previews the production build.
 
 ---
 
-Made with ❤️ by [Your Name/Github](https://github.com/your-github)
